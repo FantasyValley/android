@@ -13,6 +13,8 @@ public class DexClassLoaderLibActivity extends Activity {
 		Resources res = getResources();
 		int mainLayoutId = res.getIdentifier("lib_activity_main", "layout", getPackageName());
 		setContentView(mainLayoutId);
+		
+		// test comments
 	}
 
 }
